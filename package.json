@@ -1,0 +1,21 @@
+{
+  "name": "next-auth-example",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "pg": "latest",
+    "jose": "latest",
+    "zod": "latest",
+    "bcrypt": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
